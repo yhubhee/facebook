@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "- 👋 Hi, I’m @yhubhee\r - 👀 I’m interested in coding and it operations.\r - 🌱 I’m an experienced front-end developer.\r - 💞️ I’m looking to collaborate with more professionals.\r - 📫 You can reach me via my email emenyiubongabasi415@gmail.com\r - 😄 Pronouns: ...\r - ⚡ Fun fact: ...",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhubhee/facebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yhubhee/facebook/issues"
+  },
+  "homepage": "https://github.com/yhubhee/facebook#readme"
 }

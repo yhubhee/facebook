@@ -225,7 +225,7 @@ body {
 }
 
 .divider {
-    border-top: 1px solid #ddd;
+    /* border-top: 1px solid #ddd; */
     margin: 20px 0;
 }
 
